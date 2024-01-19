@@ -1,7 +1,6 @@
 name: Upload resumewebsite to s3
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
